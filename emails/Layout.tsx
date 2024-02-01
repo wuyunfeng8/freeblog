@@ -1,5 +1,4 @@
 import * as React from 'react'
-
 import { emailConfig } from '../config/email'
 import {
   Body,
@@ -47,10 +46,10 @@ export default function Layout({
                   href="https://raywu.cn"
                   className="text-zinc-700 underline"
                 >
-                  <strong>Cali Castle</strong>
+                  <strong>Ray wu</strong>
                 </Link>
                 <br />
-                开发者、设计师、细节控、创始人
+                开发者、设计师、产品经理、创始人
               </Text>
               <Text className="text-center">
                 <Link
