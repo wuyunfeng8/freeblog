@@ -53,7 +53,7 @@ export default function AskMeAnythingPage() {
           <li>
             <b>创业经验</b>
             ：我是
-            <RichLink href="https://zolplay.com" target="_blank">
+            <RichLink href="https://uranplus.com" target="_blank">
               佐玩
             </RichLink>
             的创始人，现在带领着团队帮助游戏开发者打造协同平台。

@@ -35,7 +35,7 @@ function OCD() {
   return (
     <span className="group">
       <SparkleIcon className="mr-1 inline-flex transform-gpu transition-transform duration-500 group-hover:rotate-180" />
-      <span>细节控</span>
+      <span>产品经理</span>
     </span>
   )
 }
@@ -80,9 +80,9 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Cali，
-          <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
-          创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。
+          我是 Ray，
+          <PeekabooLink href="https://uranplus.com">优燃佳科技</PeekabooLink>
+          创始人，目前带领着优燃佳致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。
           我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
         </Balancer>
       </motion.p>
