@@ -30,7 +30,6 @@ export default function Layout({
           <Container className="mx-auto my-[40px] w-[465px] max-w-[465px] rounded-2xl border border-solid border-zinc-100 bg-white px-[24px] py-[20px]">
             {children}
           </Container>
-
           <Container className="mx-auto mt-[32px] w-[465px]">
             <Hr className="mx-0 my-[20px] h-px w-full bg-zinc-100" />
             <Section>
